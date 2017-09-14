@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://github.com/rkBrunecz/CMSC491-To_Be_Determined/blob/master/app/src/main/res/mipmap-xxxhdpi/spot_swap_launcher.png" alt="SpotSwap Logo" height=192 width=192/>
 </p>                                                                                   
-*Developers:(edited readme)  (editing the file) Rujuta Palande, Venkat Rami Reddy, Jessica Rolfe, Randall Brunecz*           
+*Developers:(edited readme)  plz edit(editing the file) Rujuta Palande, Venkat Rami Reddy, Jessica Rolfe, Randall Brunecz*           
 *UI Designers: Nick Desaulniers, Sandy Nguyen*             
 *Last Updated: 5/24/2016*
  
